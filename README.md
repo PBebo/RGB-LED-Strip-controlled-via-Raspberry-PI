@@ -19,7 +19,10 @@ and the wiring tutorials here: http://mitchtech.net/raspberry-pi-pwm-rgb-led-str
 Ce que j'ai réussi à faire ou à trouver :
 - Pouvoir contrôler le Rouge Vert Bleu de ma bande de LED.
 - Choisir la vitesse de transition, transition douce ou instantanné, la durée d'une boucle.
+- Avoir plusieurs modes de réglage (1, 2, 3... Couleurs)
+- Interface WEB
 
 Mes attentes/objectifs :
-- [OK] - Pouvoir contrôler les couleurs de mes ruban.
-- 
+- Allumer les LED UNIQUEMENT entre 7h00 et 7h30 ainsi que de 19h et 22h45.
+- Pouvoir régler la puissance d'éclairage en pourcentage. (luminosité).
+- Une application Android ou une application WEB plus détaillés avec plus de modes.
