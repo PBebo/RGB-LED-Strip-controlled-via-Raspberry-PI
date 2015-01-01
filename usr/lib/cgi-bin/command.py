@@ -64,6 +64,8 @@ if action == "multi_color_fading":
 	actionname = "Multi Color Fading"
 elif action == "one_color":
 	actionname = "One Color"
+elif action == "wake_up":
+	actionname = "Wake Up"
 elif action == "two_color":
 	actionname = "Two Color"
 elif action == "three_color":

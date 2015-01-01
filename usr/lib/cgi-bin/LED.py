@@ -262,7 +262,6 @@ elif ACTION == "all_color":
 elif ACTION == "wake_up":
         pwm(1,100)
  
- 
 else:
         stopb = "echo 4=0 > /dev/pi-blaster"
         stopr = "echo 17=0 > /dev/pi-blaster"
