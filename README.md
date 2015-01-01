@@ -16,4 +16,10 @@ and the wiring tutorials here: http://mitchtech.net/raspberry-pi-pwm-rgb-led-str
 
 ==================================================
 
+Ce que j'ai réussi à faire ou à trouver :
+- Pouvoir contrôler le Rouge Vert Bleu de ma bande de LED.
+- Choisir la vitesse de transition, transition douce ou instantanné, la durée d'une boucle.
 
+Mes attentes/objectifs :
+- [OK] - Pouvoir contrôler les couleurs de mes ruban.
+- 
